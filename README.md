@@ -60,15 +60,6 @@ Arduino, IoT Systems
 
 ---
 
-## 📊 DSA & Coding
-
-* 🔥 200+ problems solved on LeetCode
-* 💻 Active in competitive programming
-
-🔗 LeetCode: https://leetcode.com/u/Vyomini_Joshi_270506/
-
----
-
 ## 🏆 Achievements
 
 * 🥇 Google Winter of Code 2026 – Winner
@@ -91,11 +82,6 @@ Arduino, IoT Systems
 * 💼 LinkedIn: https://www.linkedin.com/in/vyomini-joshi-30aa63327/
 * 💻 GitHub: https://github.com/Vyomini270506
 
----
-
-## 📈 GitHub Stats
-
-![Vyomini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyomini270506\&show_icons=true\&theme=radical)
 
 ---
 
