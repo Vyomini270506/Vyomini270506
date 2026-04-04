@@ -1,7 +1,7 @@
 # Hi, I'm Vyomini Joshi 👋
 
 🎓 BTech CSE @ NIT Surat
-💻 Software Developer | DSA | Full Stack
+💻  DSA | Full Stack
 ---
 
 ## 👩‍💻 About Me
