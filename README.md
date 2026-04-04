@@ -1,7 +1,7 @@
 # Hi, I'm Vyomini Joshi 👋
 
 🎓 BTech CSE @ NIT Surat
-💻  DSA | Full Stack
+💻  DSA | Full Stack | AI/ML
 ---
 
 ## 👩‍💻 About Me
