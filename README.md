@@ -1,146 +1,239 @@
-# Hi, I'm Vyomini Joshi
+<div align="center">
 
-**Computer Science Undergraduate @ SVNIT Surat**
-Focused on **Machine Learning • Systems Engineering • Networking • Full Stack Development**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vyomini%20Joshi&fontAlign=50&fontAlignY=40&color=gradient&desc=Machine%20Learning%20•%20Systems%20Engineering%20•%20Building%20for%20Scale&descAlignY=62"/>
+
+# ⚡ Engineering Curious. Building Relentlessly.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Systems+Programming+Explorer;Backend+Developer;Network+Programming+Learner;Building+Projects+That+Actually+Matter"/>
+
+<br>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vyominijoshi01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## About Me
+# About Me
 
-I’m a Computer Science student passionate about building systems that solve real-world problems.
+```cpp id="v1"
+class Engineer {
 
-My main interests currently revolve around:
+private:
 
-* Machine Learning & Predictive Modeling
-* Distributed Systems & Backend Engineering
-* Computer Networks & Low-Level Systems
-* Full Stack Development
-* Applied AI for real-world applications
+    string name = "Vyomini Joshi";
+    string university = "SVNIT Surat";
+    string degree = "B.Tech Computer Science";
 
-I enjoy understanding how software works beneath the abstraction layer — from high-level ML pipelines to packet-level network processing.
+public:
+
+    vector<string> domains = {
+
+        "Machine Learning",
+        "Distributed Systems",
+        "Computer Networks",
+        "Backend Engineering",
+        "Low Level Programming"
+
+    };
+
+    string mindset = "Build > Learn > Improve > Repeat";
+};
+```
 
 ---
 
-## Tech Stack
+# What I Work On
+
+<table>
+<tr>
+<td width="50%">
+
+### Machine Learning
+
+* Predictive Modeling
+* Classification Systems
+* Clustering Algorithms
+* Feature Engineering
+* Data Analysis Pipelines
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+* System Design
+* API Development
+* Backend Architecture
+* Performance Optimization
+* Scalable Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+# Tech Stack
 
 ### Languages
 
-`Python` `C++` `C` `JavaScript` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,mysql"/>
+</p>
 
-### Machine Learning & Data Science
+### Frameworks & Libraries
 
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib`
-`Regression` `Classification` `Feature Engineering`
-`K-Means Clustering`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind"/>
+</p>
 
-### Systems & Networking
+### Systems Engineering
 
-`Linux` `libpcap` `BPF` `TCP/IP`
-`Unix Domain Sockets` `CMake`
-
-### Web Development
-
-`React.js` `Node.js` `Express.js`
-`MongoDB` `Firebase` `Tailwind CSS`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `MySQL`
-
----
-
-## Featured Projects
-
-### Pocket Pilot
-
-ML-powered personal finance assistant for expense forecasting and budget recommendation.
-
-**Tech:** Python, Scikit-learn, Pandas, NumPy
-
-Features:
-
-* Spending behavior analysis
-* Monthly expense forecasting
-* User clustering using K-Means
-* Overspending prediction model
+```text id="v2"
+Linux
+TCP/IP
+Socket Programming
+libpcap
+BPF Filters
+Unix Domain Sockets
+CMake
+Multithreading
+```
 
 ---
 
-### CardioVision
+# Featured Builds
 
-Browser-based contactless heart rate monitoring system using remote photoplethysmography (rPPG).
+## Pocket Pilot
 
-**Tech:** JavaScript, MediaPipe, Signal Processing
+```text id="v3"
+ML based finance assistant
 
-Features:
-
-* Face landmark extraction
-* Signal processing pipeline
-* BPM estimation using DFT
-* Automated health report generation
-
----
-
-### DeepWire DPI *(In Progress)*
-
-Deep Packet Inspection system for network traffic monitoring and protocol-aware packet filtering.
-
-**Tech:** C++, Go, libpcap, BPF, Unix Domain Sockets
-
-Features:
-
-* Raw packet capture
-* HTTPS traffic filtering
-* Ethernet/IP/TCP packet parsing
-* IPC communication architecture
+→ Expense forecasting
+→ K-Means user segmentation
+→ Overspending prediction
+→ Budget recommendation engine
+```
 
 ---
 
-### GitHub Repository Popularity Analyzer
+## CardioVision
 
-Machine Learning system that predicts repository popularity using live GitHub API data.
+```text id="v4"
+Contactless heart rate monitoring using rPPG
 
-**Tech:** Python, GitHub API, Random Forest
-
-Features:
-
-* Repository feature extraction
-* Popularity classification
-* Feature importance analysis
-* Real-time repository scoring
+→ Facial landmark detection
+→ Signal extraction pipeline
+→ BPM calculation
+→ Automated health reporting
+```
 
 ---
 
-## Achievements
+## DeepWire DPI
 
-🏆 Google Winter of Code 2026 Winner
-🏆 WebWonders 2025 Finalist
-🏆 INSPIRE-MANAK Scholar
+```text id="v5"
+Network traffic inspection engine
 
----
-
-## Currently Learning
-
-* Distributed Systems
-* System Design
-* Computer Networking
-* Advanced Data Structures
-* Deep Learning
+→ Packet sniffing
+→ Protocol parsing
+→ HTTPS filtering
+→ C++ packet engine + Go control plane
+```
 
 ---
 
-## Connect With Me
+## GitHub Repo Popularity Analyzer
 
-GitHub → https://github.com/YOUR_USERNAME
+```text id="v6"
+ML model for repository popularity prediction
 
-LinkedIn → https://linkedin.com/in/vyomini-joshi-30aa63327
-
-Email → [vyominijoshi01@gmail.com](mailto:vyominijoshi01@gmail.com)
+→ GitHub API integration
+→ Feature extraction
+→ Random Forest classifier
+→ Real-time repository analysis
+```
 
 ---
 
-### Current Goal
+# Engineering Progress
 
-Building strong engineering skills to work on large-scale systems at companies solving difficult technical problems.
+```text id="v7"
+Data Structures          ████████████████░░ 85%
 
-*"Build things that are useful. Understand things deeply."*
+Machine Learning         ███████████████░░░ 80%
+
+Backend Development      ████████████░░░░░░ 65%
+
+Computer Networks        ██████████░░░░░░░░ 55%
+
+Distributed Systems      ███████░░░░░░░░░░░ 40%
+```
+
+---
+
+# Current Mission
+
+```yaml id="v8"
+Focus:
+
+  - Become extremely strong in Data Structures
+
+  - Build production grade software projects
+
+  - Learn distributed systems deeply
+
+  - Master computer networking fundamentals
+
+  - Prepare for top software engineering internships
+```
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+---
+
+# Quote I Like
+
+```text id="v9"
+Do difficult things.
+
+Small improvements every day compound massively.
+```
+
+---
+
+<div align="center">
+
+## Building toward becoming an engineer capable of solving difficult problems at scale.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer"/>
