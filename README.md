@@ -201,7 +201,7 @@ Focus:
 ```
 
 ---
-
+<!--
 # GitHub Analytics
 
 <p align="center">
@@ -231,6 +231,7 @@ Small improvements every day compound massively.
 ---
 
 <div align="center">
+-->
 
 ## Building toward becoming an engineer capable of solving difficult problems at scale.
 
